@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8c865aba-0eeb-4bbe-9781-d6123340671b",
+  "id_short": 386994,
+  "published_at": "2026-04-12T07:17:09Z",
+  "repo_name": "top-30-active-restaurant-whales-in-raleigh-us-sample-386994",
+  "sample_asset_name": "beamstation_386994_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/386994/beamstation_386994_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_records": 66,
+  "sample_sha256": "63b70504d7c2bebf7e2ec180e07e31f02ce01491c311fb7a464591054be36b99",
+  "sample_size_bytes": 289402,
+  "total_records": 665
+}

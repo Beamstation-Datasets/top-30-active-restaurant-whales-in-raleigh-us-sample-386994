@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Raleigh, US
 
-> Free BeamStation sample export with 64 rows and masked direct-contact fields.
+> Free BeamStation sample export with 60 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `386994` |
 | Location | Raleigh |
 | Category | Restaurants |
-| Full dataset size | 648 records |
-| Free sample size | 64 records (9.88%) |
-| Last export | 2026-04-15T00:10:22.725578+00:00 |
+| Full dataset size | 604 records |
+| Free sample size | 60 records (9.93%) |
+| Last export | 2026-04-22T04:01:49.483625+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-raleigh-us-sample-386994/releases/download/sample-latest/beamstation_386994_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
